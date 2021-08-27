@@ -9,6 +9,6 @@
 
 	The Intern Academy Internship Project : Basic Notifier and Speaker.
 
-	Flow: install the required modules> Run the code > See How this is work.
+	Flow: Open the Code in editor->install the required modules-> Run the code -> See How this is work.
   
   Thank You😊😊
